@@ -1,4 +1,12 @@
 ====================
+     19-12-2020
+====================
+* Synced with latest LineageOS 18.1 source code
+* Boosted audio output
+* Fixed ui lags
+* Removed AOD
+
+====================
      14-12-2020
 ====================
 * Initial build
