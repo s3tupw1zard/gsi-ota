@@ -2,13 +2,14 @@
 {
   "response": [
     {
-      "datetime": 1608370415,
-      "filename": "lineage-18.1-20201219-UNOFFICIAL-ginkgo.zip",
-      "id": "5edaec0bebfb1852997c6777518da8d2",
+      "datetime": 1609338408,
+      "filename": "lineage-18.1-20201230-UNOFFICIAL-ginkgo.zip",
+      "id": "312a387d91bfd7e5a8295f587eeb3e18",
       "romtype": "unofficial",
-      "size": 831598743,
-      "url": "https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Android-11/LineageOS-18.1/lineage-18.1-20201219-UNOFFICIAL-ginkgo.zip/download",
+      "size": 836543111,
+      "url": "https://sourceforge.net/projects/darkjoker360-developements/files/Xiaomi/Redmi%20Note%208/ROM/Android-11/LineageOS-18.1/lineage-18.1-20201230-UNOFFICIAL-ginkgo.zip/download",
       "version": "18.1"
     }
   ]
 }
+
