@@ -1,4 +1,12 @@
 ====================
+     06-01-2021
+====================
+* Synced with latest LineageOS 18.1 source code
+* Merged January 2021 security patches
+* Added PowerMenu QS Tile
+* Fixed WallpaperPicker crashes due to race-conditions
+
+====================
      30-12-2020
 ====================
 * Synced with latest LineageOS 18.1 source code
