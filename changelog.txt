@@ -1,50 +1,7 @@
 ====================
      05-02-2021
 ====================
-* Synced with latest LineageOS 18.1 source code
-* Merged February 2021 security patches
+* Initial Build
+* Includes February 2021 security patches
 
-====================
-     06-01-2021
-====================
-* Synced with latest LineageOS 18.1 source code
-* Merged January 2021 security patches
-* Added PowerMenu QS Tile
-* Fixed WallpaperPicker crashes due to race-conditions
-
-====================
-     30-12-2020
-====================
-* Synced with latest LineageOS 18.1 source code
-* Fixed encryption
-* Switched to QTI BT stack
-* Rebased kernel on latest caf R tag and upstreamed to v4.14.212
-* Updated graphics, display and perf blobs to R (LA.UM.9.11.r1-02400-NICOBAR.0)
-* Tune post_boot script for better performance
-* Misc RIL improvements
-* Enabled QC dual wifi interface
-* Reduced shutdown timeout
-* Switched to Snapdragon LLVM for kernel compilation
-* Decreased minimum brightness values
-* Added Snap Camera
-* Misc fixes and improvements
-
----- Source Side own fixes ----
-* Added changelog into updater
-* Fixed expanded qs panel stucking open in keyguard
-* Fixed themes not being properly applied until reboot
-* Fixed inactive wifi icon on some styles (Circular,Filled and Kai)
-
-====================
-     19-12-2020
-====================
-* Synced with latest LineageOS 18.1 source code
-* Boosted audio output
-* Fixed ui lags
-* Removed AOD
-
-====================
-     14-12-2020
-====================
-* Initial build
-* Synced with latest LineageOS 18.1 source code
+===================
