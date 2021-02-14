@@ -1,0 +1,22 @@
+
+{
+  "images": [
+    {
+      "name": "GSI ARM64",
+      "os_version": "v5.0.0",
+      "cpu_abi": "arm64-v8a",
+      "details": "arm64-exp-RP1A.200720.009-6720564-019b517d",
+      "spl": "2021-14-02",
+      "uri": "https://dl.google.com/developers/android/rvc/images/gsi/aosp_arm64-exp-RP1A.200720.009-6720564-019b517d.zip"
+    },
+    {
+      "name": "GSI+GMS ARM64",
+      "os_version": "v5.0.0",
+      "cpu_abi": "arm64-v8a",
+      "details": "gms_arm64-exp-RP1A.200720.009-6720564-c8273882",
+      "spl": "2020-12-02",
+      "uri": "https://dl.google.com/developers/android/rvc/images/gsi/gsi_gms_arm64-exp-RP1A.200720.009-6720564-c8273882.zip"
+    },
+  ]
+}
+
